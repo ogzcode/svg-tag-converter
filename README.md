@@ -7,12 +7,7 @@ Projeyi çalıştırmak için bilgisayarınızda python kurulu olmalıdır.
 
 ## Kullanım
 ```
-python main.py svg_dosya_yolu svg_yeni_isim
-```
-
-### Testler
-```
-python -m unittest test/test_svg_update.py
+python main.py
 ```
 
 
